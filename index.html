@@ -1,5 +1,14 @@
-<img
-    src="img/himawari.avif"
-    alt="ひまわり"
-    style="width: 100vw; height: 200px; object-fit: cover; display: block"
-/>
+<div
+    style="
+        width: 100vw;
+        height: 20vh;
+        background-image: url(img/himawari.avif);
+        background-size: 100%;
+    "
+></div>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+</style>
