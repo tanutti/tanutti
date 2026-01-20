@@ -6,9 +6,3 @@
         background-size: 100%;
     "
 ></div>
-<style>
-    body {
-        margin: 0;
-        padding: 0;
-    }
-</style>
